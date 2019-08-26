@@ -6,10 +6,12 @@ Colab Python3 Notebook programming,{2019}
 
 Authors: https://github.com/LucilleKaleha
 
-Research Problem:
+## Research Problem:
+
 Investigate the claim that in any given two stations, the average number of blucars taken is never the same
 
 ## Setup/Installation Requirements
+
 Google Colab/Jupyter Notebook.
 
 Pandas, Python libraries for data exploration and manipulation
@@ -24,6 +26,7 @@ There are no known bugs.
 Improvements are encouraged.
 
 ## Technologies Used
+
 Python
 
 Pandas, Numpy, Seaborn, Sklearn, Factor Analyzer and Matplotlib libraries
